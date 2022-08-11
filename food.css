@@ -1,0 +1,30 @@
+.background{
+    background-image: url(fast.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#h1{
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 60px;
+    margin-top:250px;
+    margin-left: 450px;
+    text-align:center ;
+    color:bisque;
+}
+#h2{
+    position: absolute;
+    bottom: 15px;
+    left:16px;
+}
+.button{
+    background-color:dimgray;
+    padding:10px 10px;
+    font-size: 20px;
+    color:antiquewhite;
+    text-decoration: none;
+    cursor: pointer;
+    position: absolute;
+    bottom: 10%;
+    right:10%;
+    border-radius: 10px;
+}
